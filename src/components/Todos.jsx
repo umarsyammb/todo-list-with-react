@@ -7,7 +7,7 @@ const Todos = () => {
 		{ text: "Belajar Props" },
 		{ text: "Belajar Hooks" },
 		{ text: "Belajar State" },
-		{ text: "Belajar Layouting" },
+		{ text: "Belajar Layouting di React" },
 	];
 	return (
 		<section className="todos">
